@@ -58,7 +58,7 @@ export default function work() {
 			</label>
 			<label className="block">
 				<span className="mb-1">Anything You Want To Enquire</span>
-				<textarea rows="3" className="block w-full rounded-md focus:ring focus:ri focus:ri bg-gray-800"></textarea>
+				<textarea  className="block w-full rounded-md focus:ring focus:ri focus:ri bg-gray-800"></textarea>
 			</label>
 			<button type="button" className="self-center px-8 py-3 text-lg rounded focus:ring hover:ring focus:ri bg-violet-400 text-gray-900 focus:ri hover:ri">Submit</button>
 		</form>
