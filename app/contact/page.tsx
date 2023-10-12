@@ -47,7 +47,7 @@ export default function work() {
 				</p>
 			</div>
 		</div>
-		<form novalidate="" className="flex flex-col py-6 space-y-6 md:py-0 md:px-6">
+		<form className="flex flex-col py-6 space-y-6 md:py-0 md:px-6">
 			<label className="block">
 				<span className="mb-1">Full name</span>
 				<input type="text" placeholder="Full Name" className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri bg-gray-800" />
