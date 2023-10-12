@@ -64,12 +64,17 @@ export default function MobileMenu() {
         
         <ul className="bg-gray-800 px-4 py-2">
         <li>
-                <Link href="/signup" className="text-white hover:bg-purple-700 ml-6">
+                <Link href="/" className="text-white hover:bg-purple-700 ml-6">
+                  Home
+                </Link>
+              </li>
+        <li>
+                <Link href="/about" className="text-white hover:bg-purple-700 ml-6">
                   About Us
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className="text-white hover:bg-purple-700 ml-6">
+                <Link href="/products" className="text-white hover:bg-purple-700 ml-6">
                   Our Products
                 </Link>
               </li>

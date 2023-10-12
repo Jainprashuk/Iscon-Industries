@@ -6,9 +6,9 @@ export default function Banner() {
   const [bannerOpen, setBannerOpen] = useState<boolean>(true)
   const redirectToWhatsAppChat = () => {
     // Replace '1234567890' with the phone number you want to chat with
-    const phoneNumber = '917879797665';
+    const phoneNumber = '916265831995';
     // You can also specify an initial message
-    const message = 'Hello, let\'s chat on WhatsApp!';
+    const message = 'Hello, I am Intrested in buying Your products , lets discuss..';
 
     // Construct the WhatsApp chat URL
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
