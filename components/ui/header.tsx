@@ -57,11 +57,11 @@ export default function Header() {
             
           </nav>
 
-          <div className="flex items-end justify-end pr-16 lg:pr-0">
+          {/* <div className="flex items-end justify-end pr-16 lg:pr-0">
                 <div>
                   <ThemeToggler />
                 </div>
-              </div>
+              </div> */}
 
           <MobileMenu />
 
