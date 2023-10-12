@@ -38,17 +38,17 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className=" text-white hover:border-b-2 hover:border-purple-600   ml-6">
+                <Link href="/work" className=" text-white hover:border-b-2 hover:border-purple-600   ml-6">
                   Our Work
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className=" text-white hover:border-b-2 hover:border-purple-600 ml-6">
+                <Link href="/gallery" className=" text-white hover:border-b-2 hover:border-purple-600 ml-6">
                   Gallery
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className=" text-white hover:border-b-2 hover:border-purple-600  ml-6 mr-12 ">
+                <Link href="/contact" className=" text-white hover:border-b-2 hover:border-purple-600  ml-6 mr-12 ">
                   Contact Us
                 </Link>
               </li>

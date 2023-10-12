@@ -79,17 +79,17 @@ export default function MobileMenu() {
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className=" text-white  hover:bg-purple-700 ml-6">
+                <Link href="/work" className=" text-white  hover:bg-purple-700 ml-6">
                   Our Work
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className=" text-white  hover:bg-purple-700 ml-6">
+                <Link href="/gallery" className=" text-white  hover:bg-purple-700 ml-6">
                   Gallery
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className=" text-white  hover:bg-purple-700 ml-6 ">
+                <Link href="/contact" className=" text-white  hover:bg-purple-700 ml-6 ">
                   Contact Us
                 </Link>
               </li>

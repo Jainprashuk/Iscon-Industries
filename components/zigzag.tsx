@@ -64,8 +64,8 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Iscon - industries</div>
-                  <h3 className="h3 mb-3">Our Works till Now..</h3>
-                  <p className="text-xl text-gray-400 mb-4">Over a span of time, Iscon Industries has proudly served 50+ clients, delivering excellence in over 10 major projects. Our commitment to quality and customer satisfaction shines through our track record.  <span className='text-blue-600'><a href="">Read More...</a></span></p>
+                  <h3 className="h3 mb-3">Our Journey Thus Far..</h3>
+                  <p className="text-xl text-gray-400 mb-4">Over a span of time, Iscon Industries has proudly served 50+ clients, delivering excellence in over 10 major projects. Our commitment to quality and customer satisfaction shines through our track record.  <span className='text-blue-600'><a href="/work">Read More...</a></span></p>
                   
                 </div>
               </div>
