@@ -48,7 +48,7 @@ export default function Zigzag() {
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Iscon - industries</div>
                   <h3 className="h3 mb-3">Our Products</h3>
-                  <p className="text-xl text-gray-400 mb-4">Explore our extensive product selection, boasting more than 15 distinct varieties, each showcasing a blend of captivating color combinations. Iscon Industries offers an array of pavers that redefine outdoor aesthetics and elevate your landscape design to new heights. <span className='text-blue-600'><a href="">Read More...</a></span></p>
+                  <p className="text-xl text-gray-400 mb-4">Explore our extensive product selection, boasting more than 15 distinct varieties, each showcasing a blend of captivating color combinations. Iscon Industries offers an array of pavers that redefine outdoor aesthetics and elevate your landscape design to new heights. <span className='text-blue-600'><a href="/products">Read More...</a></span></p>
                   
                 </div>
               </div>
